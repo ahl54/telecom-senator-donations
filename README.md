@@ -21,5 +21,5 @@ Null hypothesis accepted at significance level of 5%. Samples are from continuou
 There is no statistical evidence that supports a difference between the amount of money donated to Republican vs Democratic parties by the Telecom Industry.
 
 ### [Code to generate analysis](https://github.com/ahl54/telecom-senator-donations/blob/master/senatordonations.m)
-### [PDF Report of analysis](https://github.com/ahl54/telecom-senator-donations/blob/master/senatordonations.pdf)
+### [PDF Report of analysis](https://github.com/ahl54/telecom-senator-donations/blob/master/telecom-senator-donations.pdf)
 
